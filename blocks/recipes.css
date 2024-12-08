@@ -42,14 +42,8 @@
   line-height: 30px;
 }
 
-ul,
-ol {
-  list-style-type: none;
-}
-
 .recipes__iframe {
   width: 480px;
   height: 270px;
-  gap: 40px;
   border: none;
 }

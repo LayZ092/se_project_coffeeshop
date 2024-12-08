@@ -52,7 +52,7 @@
   align-items: flex-end;
 }
 
-.adress {
+.header__adress {
   bottom: 0px;
   right: 0px;
   margin: 10px;
