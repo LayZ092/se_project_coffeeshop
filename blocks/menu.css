@@ -6,7 +6,7 @@
   background-image: url(../images/se_project_2_files/background_menu.svg);
   background-repeat: no-repeat;
   background-size: cover;
-  position: relative;
+  background-position: center;
 }
 
 .menu__title {
@@ -16,6 +16,8 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  max-width: 780px;
+  text-align: center;
 }
 
 .menu__subtitle {
@@ -25,6 +27,8 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  max-width: 780px;
+  text-align: center;
 }
 
 .menu__cards {
